@@ -6,3 +6,11 @@
     top: 0;
     left: 0;
 }
+
+h1{
+    color: white;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 90vh;
+}
